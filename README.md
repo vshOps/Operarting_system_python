@@ -73,6 +73,9 @@ The program displays process execution details along with:
 This project helped in understanding:
 
 - Operating System process scheduling
+- CPU utilization strategies
+- Differences between preemptive and non-preemptive scheduling
+
 
 ## Future Improvements
 
