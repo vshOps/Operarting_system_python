@@ -9,8 +9,8 @@ CPU Scheduling is a fundamental concept in Operating Systems that determines whi
 
 ## Features
 
-- Implementation of Preemptive Scheduling Algorithms
-- Implementation of Non-Preemptive Scheduling Algorithms
+- Implementation of Preemptive Scheduling Algorithms.
+- Implementation of Non-Preemptive Scheduling Algorithms.
 - Automatic calculation of:
   - Completion Time (CT)
   - Turnaround Time (TAT)
