@@ -16,7 +16,7 @@ CPU Scheduling is a fundamental concept in Operating Systems that determines whi
   - Turnaround Time (TAT)
   - Waiting Time (WT)
 - User-friendly console-based interface.
-- Comparative analysis of scheduling methods
+- Comparative analysis of scheduling methods.
 
 ## Scheduling Algorithms Implemented
 
