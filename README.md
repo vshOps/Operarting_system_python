@@ -25,6 +25,7 @@ CPU Scheduling is a fundamental concept in Operating Systems that determines whi
 - Shortest Job First (SJF)
 - Priority Scheduling
 
+
 ### Preemptive Algorithms
 - Shortest Remaining Time First (SRTF)
 - Priority Scheduling (Preemptive)
