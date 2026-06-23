@@ -1,5 +1,5 @@
 # Operarting_system_python
-# CPU Scheduling Algorithms Simulator
+# CPU Scheduling Algorithms Simulato
 
 This project demonstrates the implementation of various CPU Scheduling Algorithms in Python. It provides a comparative understanding of Preemptive and Non-Preemptive scheduling techniques used by operating systems to manage process execution efficiently.
 
