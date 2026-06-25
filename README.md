@@ -76,7 +76,7 @@ This project helped in understanding:
 - Operating System Scheduling Algorithm.
 - CPU utilization strategies.
 - Differences between preemptive and non-preemptive scheduling.
-- Algorithm analysis and performance comparison
+- Algorithm analysis and performance comparison.
 - Python programming and data structures
 
 ## Future Improvements
