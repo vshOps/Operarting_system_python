@@ -77,7 +77,7 @@ This project helped in understanding:
 - CPU utilization strategies.
 - Differences between preemptive and non-preemptive scheduling.
 - Algorithm analysis and performance comparison.
-- Python programming and data structures
+- Python programming and data structures.
 
 ## Future Improvements
 
