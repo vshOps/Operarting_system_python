@@ -58,7 +58,7 @@ python main.py
 
 ## Sample Output
 
-The program displays process execution details along with:
+The program displays process execution details along with:.
 
 - Process ID
 - Arrival Time
